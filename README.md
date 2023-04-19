@@ -87,7 +87,7 @@ PLAYER vs PLAYER
 
 PLAYER vs PLAYER
 
-** Combat**
+**Combat**
 
 | P | v | P |
 |---|---|---|
@@ -95,3 +95,60 @@ PLAYER vs PLAYER
 |(A)| > | D |
 | A | = | D |
 | A | < |(D)|
+
+#### STANDOFFS
+
+A STANDOFF occurs if there is no clear winner in a SPACE BATTLE. In this case, the PLAYER may choose to make a contested roll with 1d6, or may choose to flee if their ship has a higher [M] score. If contested, roll 1d6 for each SPACESHIP. The highest number wins. In the case of a tie, reroll until a winner is determined.
+
+#### PLAYER vs PLAYER
+
+PLAYER vs PLAYER (PvP) combat is similar, but introduces a few competitive mechanics. When players engaged in a SPACE BATTLE have matching [M] scores, they will contest who gains the initiative by each rolling 1d6, once again with the highest roll winning and rerolling any ties. There is also an added bonus for winning; see VICTORY!
+
+#### PLANETARY ASSAULT
+
+PLANETARY ASSAULT occurs when a PLAYER's SPACESHIP lands on another PLAYER's PLANET that is fortified by one or more defending SPACESHIPS orbiting the PLANET. In PLANETARY ASSAULT, the defending SPACESHIP's [M] score is set to 0 and its [D] score is _doubled_. Great rewards await those who are victorious in PLANETARY ASSAULT!
+
+<hr>
+
+### VICTORY!
+
+#### PvM
+
+You acquire a new SPACESHIP! Capture and name the ship you have just defeated.
+
+#### PvP
+
+ASSIMILATE or DESTROY! 
+Choose 1: 
+* ASSIMILATE the defeated SPACESHIP into your fleet
+* DESTROY the defeated SPACESHIP and take its upgrades (and downgrades) on board!
+
+#### PLANETARY ASSAULT
+
+The rewards for PLANETARY ASSAULT follow the same rules as PvP but additionally make a PLANETARY CONQUEST roll...
+
+#### PLANETARY CONQUEST
+
+Congratulations! You have discovered (or conquered) a new PLANET!
+
+Make a 1d6 roll and draw TREASURE cards based on one half the result rounded down.
+
+|Roll|1|2|3|4|5|6|
+|----|-|-|-|-|-|-|
+| [T]|0|1|1|2|2|3|
+
+### DEFEAT...
+
+#### PvM
+
+If defeated in a PvM battle, your SPACESHIP is destroyed. Return it aned all [T] cards to their respective piles and shuffle.
+
+#### MOTEHRSHIP
+
+If your MOTHERSHIP is destroyed, return it to your HOMEWORLD to be rebuilt. Roll 1d6 on each subsequent turn and add the number of PLANETS you control to the score. If it totals 6 or above, your MOTHERSHIP has been rebuilt successfully and may move on your next turn!
+
+<hr>
+
+### SETUP
+
+Lay out the NEXUS token in the center of the board. Surround it with as many PLANETS as there are PLAYERS. Build outward by attaching STARWAYS and PLANETS alternately. These patterns shouls match. Use remaining PLANETS and STARWAYS by attaching them to the nexus similarly. PLAYERS choose a PLANET to be their HOMEWORLD by each rolling 1d6 to determine the order of choice. Each player in turn chooses a PLANET and the last PLAYER to choose their HOMEWORLD starts the game. 
