@@ -13,12 +13,21 @@ _**A tabletop game of interplanetary conquest!**_
 ### Elements
 
 * GALACTIC MAP
+* NEXUS
 * SPACESHIPS
 * PLANETS
 * MOTHERSHIPS
 * HOMEWORLD
 * STARWAYS
 * TREASURE
+
+#### GALACTIC MAP
+
+The GALACTIC MAP is the result of laying out all the various NEXUS, PLANET, and STARWAY tokens and forms both the framework for navigaion and the object of the game.
+
+#### NEXUS
+
+The NEXUS sits at the center of the board connecting disparate parts of the GALACTIC MAP with each other in a more direct path. Moving a SPACESHIP through the NEXUS requires a one turn delay as the vehicle and its inhabitants pass through customs and refueling operations.
 
 #### SPACESHIPS
 
@@ -151,4 +160,58 @@ If your MOTHERSHIP is destroyed, return it to your HOMEWORLD to be rebuilt. Roll
 
 ### SETUP
 
-Lay out the NEXUS token in the center of the board. Surround it with as many PLANETS as there are PLAYERS. Build outward by attaching STARWAYS and PLANETS alternately. These patterns shouls match. Use remaining PLANETS and STARWAYS by attaching them to the nexus similarly. PLAYERS choose a PLANET to be their HOMEWORLD by each rolling 1d6 to determine the order of choice. Each player in turn chooses a PLANET and the last PLAYER to choose their HOMEWORLD starts the game. 
+1. Lay out the NEXUS token in the center of the board. 
+2. Surround it with as many PLANETS as there are PLAYERS. 
+3. Build outward by attaching STARWAYS and PLANETS alternately; these patterns should match. 
+4. Use remaining PLANETS and STARWAYS by attaching them to the nexus similarly. 
+5. PLAYERS choose a PLANET to be their HOMEWORLD by each rolling 1d6 to determine the order of choice. 
+6. Each player in turn chooses a PLANET and the last PLAYER to choose their HOMEWORLD starts the game.
+
+<hr>
+
+### GAME SYSTEM and TOKENS
+
+##### A Note On Balance and Creativity
+
+These numeric distributions should be experimented with freely to adjust to any play group's desired style. This is also reflected in the Blank Image and Name frames on the TREASURE, SPACESHIP, and PLANET cards. One of the great joys of SPACE RACE is that feeling of exploration and naming your finds and acquisitions along the way. Add some art during that _slow guy's_ turn! Make your HOMEWORLD and SPACESHIPS an expression of yourself... just careful not to become too attached, lest you run into a hostile PLAYER out there on the STARWAYS!
+#### SPACESHIP
+
+**Layout**
+
+[D|M|A]: 3 Labeled Number Boxes
+Image: Blank 2D Canvas
+Name: Blank Text Box
+
+Card and Attribute Distribution:
+
+The SPACESHIP deck can consist of an array of cards given an average of 10 points distributed across its [D|M|A]. In the standard set, a standard deviation curve has been applied to the various SPACESHIP cards to present an even, yet variable power curve. This assists in making the early game possible to navigate while still providing a cautionary device to unbridled exploration.
+
+#### TREASURE
+
+**Layout**
+
+[D|M|A]: 3 Labeled Number Boxes
+Image: Blank 2D Canvas
+Name: Blank Text Box 
+
+Card and Attribute Distribution:
+
+The TREASURE deck follows a similar standard distribution framework, but is applied to a smaller range of upgrades and downgrades available for PLAYERS to encounter. A typical upgrade might add +1-3 to any one of the [D|M|A] scores of the SPACESHIP to which it is affixes. The range of downgrades or disasters that might affect a SPACESHIP should be roughly 1/4 to 1/3 of the total of cards in the TREASURE deck with scores ranging in the negatives from -1 to -2 and perhaps the occasional bogeyman 3. 
+
+#### STARWAYS
+
+**Layout**
+
+[?|?|?|?]: 4 Blank Text Boxes
+
+Card and Attribute Distribution:
+
+The STARWAYS cards make up the navigation system of SPACE RACE. These cards should be assigned in accordance with the standard deviation framework mentioned above to include a variety of [T] and [S] squares in various densities throughout the deck. There should be good balance of safe or mundane spaces mixed in with the encounters to vary the gameplay pattern satisfactorily.
+
+#### NEXUS
+
+**Layout**
+
+(O): 2 Concentric Circles
+
+There is only one NEXUS. Feel free to decorate it however you like. It's a magical place.
